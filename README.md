@@ -11,5 +11,5 @@ The application was tested on Tomcat v8.0 Server.
 
 ### Starting app notes
 
-* If algorithm should be configured, please refer to <emp>appConfig.properties</emp> file, described above.
+* If algorithm should be configured, please refer to <emp>appConfig.properties</emp> file
 * Database credentials should be updated in <emp>application-context.xml</emp> file.
