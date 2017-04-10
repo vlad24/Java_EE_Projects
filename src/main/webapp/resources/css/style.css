@@ -1,0 +1,118 @@
+h1 {
+	font-family: "PT Sans", Verdana, Arial, sans-serif;
+	color: #007db8;
+}
+
+table {
+	width: 100%;
+}
+
+
+.basic_button {
+	background-color: black;
+	border: 1px solid #007db8;
+	color: white;
+	padding: 10px 40px;
+	width: 250px;
+	text-align: center;
+	font-weight: bold;
+	display: inline-block;
+	font-size: 12px;
+	float: right;
+}
+
+.basic_button:hover {
+	background-color: #007db8;
+}
+
+
+.task_button {
+	background-color: #007db8;
+	border: 2px solid black;
+	color: white;
+	padding: 10px 40px;
+	width: 250px;
+	text-align: center;
+	display: inline-block;
+	font-size: 18px;
+	float: center;
+}
+
+.task_button:hover {
+	background-color: black;
+}
+
+.small_button {
+	background-color: #96e94b;
+	border: 1px solid black;
+	color: white;
+	width: 120px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 24px;
+	font-size: 14px;
+	float: center;
+}
+
+.small_button:hover {
+	background-color: gray;
+}
+
+.important_area {
+	font-size: 18px;
+	font-weight: bold;
+	border: 1px solid black;
+	background: #b3dae7;
+}
+
+.important_area  th {
+	background: black;
+	color: white;
+	text-align: center;
+}
+
+.important_area  td {
+	text-align: center;
+}
+
+.error_area {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.error_area p {
+	border: 1px solid red;
+	color: red;
+}
+
+.problem_area {
+	text-align: center;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	border: 1px solid black;
+	background: #edeceb;
+}
+
+.problem_area tr:hover {
+	background-color: #fce1e6;
+}
+
+.problem_area  th {
+	background: #ff8e8e;
+}
+
+
+.input_area p {
+	display: table-row;
+}
+
+.input_area label {
+	display: table-cell;
+}
+
+.input_area form {
+	display: table;
+}
+
+

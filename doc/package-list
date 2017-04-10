@@ -1,0 +1,6 @@
+ru.spbu.math.ais.controller
+ru.spbu.math.ais.dao
+ru.spbu.math.ais.dao.impls
+ru.spbu.math.ais.model
+ru.spbu.math.ais.service
+ru.spbu.math.ais.wrappers
