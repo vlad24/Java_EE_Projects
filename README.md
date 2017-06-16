@@ -1,4 +1,4 @@
-# Java_EE_Projects. EMC Internship Entry Task
+# EMC Internship Entry Task
 
 ### General Info
 Web Application for operating statistics on <emp>FEDirectors</emp> and <emp>StorageGroups</emp> built with:
